@@ -1,0 +1,7 @@
+Tecnologías por apreder:
+-Domain Driven Desing
+-Industria 4.0
+-.net
+-Go
+-Swift
+
